@@ -16,5 +16,11 @@ export default {
 </script>
 
 <style lang="sass">
-  
+  #app
+    position: relative
+    img
+      position: absolute
+      top: 0%
+      width: 30%
+      left: 35%
 </style>
